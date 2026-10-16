@@ -260,6 +260,7 @@
 - [React](https://github.com/enaqx/awesome-react#readme) - JavaScript library for building user interfaces.
 	- [Relay](https://github.com/expede/awesome-relay#readme) - Framework for building data-driven React apps.
 	- [React Hooks](https://github.com/glauberfc/awesome-react-hooks#readme) - Lets you use state and other React features without writing a class.
+	- [Ink](https://github.com/oliveryasuna/awesome-ink#readme) - React renderer for building interactive command-line apps.
 - [Web Components](https://github.com/web-padawan/awesome-web-components#readme)
 - [Polymer](https://github.com/Granze/awesome-polymer#readme) - JavaScript library to develop Web Components.
 - [Angular](https://github.com/PatrickJS/awesome-angular#readme) - App framework.
